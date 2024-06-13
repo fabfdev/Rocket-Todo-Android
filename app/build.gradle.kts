@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "br.com.felipealexandre.practicing.rocketto_do"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "br.com.felipealexandre.practicing.rocketto_do"
         minSdk = 24
-        targetSdk = 33
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
